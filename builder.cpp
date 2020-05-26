@@ -185,3 +185,4 @@ zestaw2.show();
 int x;
 cin >>x;
 }
+//.
